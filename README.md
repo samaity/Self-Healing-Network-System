@@ -18,4 +18,5 @@ In addition to the level 3 criteria, SHNS will not only address the known issues
 
 ## Licence & Copyright
 
-© Tanvi Deshpande, Sangita Maity, Shikha Shari, Soumita Bhowmik
+© Tanvi Deshpande, Sangita Maity, Soumita Bhowmik, Shikha Shahri, Krishma Kapadia
+
